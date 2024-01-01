@@ -1,5 +1,3 @@
-# HEB-Auto-Coupon-Clipper
-Tampermonkey script to clip your HEB coupons
 # HEB Auto Coupon Clipper
 
 ## Description
