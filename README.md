@@ -7,7 +7,7 @@ The HEB Auto Coupon Clipper is a Tampermonkey script designed to automate the pr
 - Automatically clicks "View More" to load all available coupons.
 - Clips all available coupons in a controlled and staggered manner.
 - Displays a status overlay on the page to indicate current activity and progress.
-- Checks for script updates (if hosted on a compatible server with the correct URL).
+- Checks for script updates.
 
 ## Installation for Tampermonkey Users
 1. Install the Tampermonkey extension in your web browser.
